@@ -1,0 +1,9 @@
+project-private.local.json
+docs/
+gallery-layout-options.html
+.superpowers/
+node_modules/
+dist/
+.vercel/
+*.log
+.tools/

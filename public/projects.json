@@ -1,0 +1,18 @@
+[
+  {
+    "id": "codex-gallery",
+    "title": "Codex Project Gallery",
+    "summary": "Codex로 만든 프로젝트들을 모아 보여주는 개인 작업물 갤러리.",
+    "description": "A portfolio-first static gallery that reads project records from projects.json and can be updated by Codex after future projects.",
+    "status": "published",
+    "visibility": "public",
+    "tags": ["Codex", "Portfolio", "Web"],
+    "createdAt": "2026-06-21",
+    "updatedAt": "2026-06-21",
+    "thumbnail": "assets/projects/codex-gallery/thumbnail.svg",
+    "links": {
+      "demo": "",
+      "github": ""
+    }
+  }
+]

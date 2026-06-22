@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Codex Project Gallery thumbnail</title>
+  <desc id="desc">A portfolio grid thumbnail for the Codex Project Gallery.</desc>
+  <rect width="1200" height="720" fill="#f6f3ee"/>
+  <rect x="72" y="72" width="1056" height="576" rx="28" fill="#1f2933"/>
+  <rect x="112" y="118" width="320" height="42" rx="10" fill="#f9fafb"/>
+  <rect x="112" y="184" width="180" height="18" rx="9" fill="#99f6e4"/>
+  <rect x="312" y="184" width="120" height="18" rx="9" fill="#fde68a"/>
+  <g fill="#f9fafb">
+    <rect x="112" y="246" width="284" height="156" rx="16"/>
+    <rect x="458" y="246" width="284" height="156" rx="16"/>
+    <rect x="804" y="246" width="284" height="156" rx="16"/>
+    <rect x="112" y="450" width="284" height="112" rx="16"/>
+    <rect x="458" y="450" width="284" height="112" rx="16"/>
+    <rect x="804" y="450" width="284" height="112" rx="16"/>
+  </g>
+  <g fill="#111827" opacity="0.9">
+    <rect x="140" y="274" width="108" height="16" rx="8"/>
+    <rect x="140" y="306" width="210" height="12" rx="6"/>
+    <rect x="140" y="332" width="168" height="12" rx="6"/>
+    <rect x="486" y="274" width="128" height="16" rx="8"/>
+    <rect x="486" y="306" width="208" height="12" rx="6"/>
+    <rect x="486" y="332" width="150" height="12" rx="6"/>
+    <rect x="832" y="274" width="116" height="16" rx="8"/>
+    <rect x="832" y="306" width="204" height="12" rx="6"/>
+    <rect x="832" y="332" width="174" height="12" rx="6"/>
+    <rect x="140" y="478" width="126" height="14" rx="7"/>
+    <rect x="140" y="508" width="210" height="10" rx="5"/>
+    <rect x="486" y="478" width="118" height="14" rx="7"/>
+    <rect x="486" y="508" width="214" height="10" rx="5"/>
+    <rect x="832" y="478" width="132" height="14" rx="7"/>
+    <rect x="832" y="508" width="196" height="10" rx="5"/>
+  </g>
+  <g fill="#14b8a6">
+    <circle cx="352" cy="356" r="18"/>
+    <circle cx="698" cy="356" r="18"/>
+    <circle cx="1044" cy="356" r="18"/>
+  </g>
+  <path d="M112 606H1088" stroke="#f9fafb" stroke-width="4" stroke-linecap="round" opacity="0.35"/>
+</svg>
