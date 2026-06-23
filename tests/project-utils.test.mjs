@@ -5,7 +5,7 @@ import {
   getAllTags,
   filterProjects,
   sortProjectsByDate
-} from "../public/src/project-utils.js";
+} from "../docs/src/project-utils.js";
 
 const projects = [
   {

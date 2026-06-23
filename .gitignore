@@ -1,6 +1,6 @@
 project-private.local.json
-docs/
 gallery-layout-options.html
+.local-docs/
 .superpowers/
 node_modules/
 dist/

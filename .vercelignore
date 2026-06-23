@@ -1,6 +1,7 @@
-docs/
+public/
 project-private.local.json
 gallery-layout-options.html
+.local-docs/
 .superpowers/
 .agents/
 tests/
